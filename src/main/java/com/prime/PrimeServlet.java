@@ -1,5 +1,8 @@
-package com.prime;
+/*
+  Build a servlet program to check the given number is prime number or not using HTML with step by step procedure.
 
+ */
+package com.prime;
 import java.io.*;
 import javax.servlet.*;
 import javax.servlet.http.*;
